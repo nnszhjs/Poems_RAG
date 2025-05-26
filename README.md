@@ -117,7 +117,6 @@ python client.py
 ├── client.py              # 交互式问答代码
 ├── llm_query.py           # 语言模型查询代码
 ├── README.md              # 说明文档
-├── report.pdf             # 项目报告
 └── test_model.py          # 测试模型代码
 ```
 
