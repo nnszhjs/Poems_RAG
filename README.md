@@ -1,4 +1,4 @@
-# RAG 问答系统
+# RAG 唐诗检索系统
 
 一个基于检索增强生成（Retrieval-Augmented Generation, RAG）的简单唐诗检索系统，支持从自定义文档库中检索唐诗并结合LLM模型生成回答。
 
