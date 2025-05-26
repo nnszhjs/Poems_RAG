@@ -16,9 +16,9 @@ CONFIG = {
     "hnsw_space": "cosine",
     "llm_config": {
         "provider": "openai",  # 可选: "openai", "local"
-        "model_name": "THUDM/GLM-4-32B-0414",
-        "api_key": "sk-umbsrowanjtntjlhgeonqmhulhpwzkzndprgsihtrxwlxkut",  # 对于API服务
-        "base_url": "https://api.siliconflow.cn/v1",  # 对于OpenAI
+        "model_name": "",
+        "api_key": "",  
+        "base_url": "",  
         "local_model_path": None,  # 对于本地模型
         "temperature": 0.7,
         "max_tokens": 1000
